@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and related stuff.
 - 🌱 I’m currently learning advanced machine learning.
 - 💞️ I’m looking to collaborate on different types of project related to different programming languages like java, Python, C, C++.
-- I'm also ready to work on machine learning related projects.
+- I'm also looking to work on machine learning related projects.
 - 📫 Reach me here or at krishna.bamrara@gmail.com
 
 <!---
