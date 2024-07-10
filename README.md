@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Sparsh216
-- 🌱 I’m currently learning advanced ML and working on personal ML projects.
-- 💞️ I’m looking to collaborate on projects related to machine learning and data science.
+I am an experienced Backend Engineer skilled in Python, AWS, and DevOps, with a solid foundation in data structures and algorithms. I excel in optimizing workflows and managing complex data pipelines, leveraging technologies like Terraform for infrastructure management andand Docker for containerization. I am passionate about tackling technical challenges and implementing robust solutions that drive efficiency and innovation in software engineering.
 - 📫 Reach me here or at krishna.bamrara@gmail.com
 
 <!---
